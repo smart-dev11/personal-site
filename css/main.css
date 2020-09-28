@@ -7040,3 +7040,13 @@ figure.portfolio-wrapper.hover .stack {
 
 
 /* phone */
+
+.contact-info a {
+  font-size: 1.5em;
+  margin-left: 5px;
+  color: white;
+}
+
+.contact-info a:hover {
+  color: #11ABB0;
+}
